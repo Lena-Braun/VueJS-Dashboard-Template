@@ -10,17 +10,17 @@ const Testimonials = () => {
           />
           <div className="flex flex-col gap-[4px]">
             <div className="text-[16px] leading-[24px] tracking-[-2%] text-white font-bold ">
-              Steve Smith
-            </div>
-            <div className="text-[14px] leading-[19.6px] tracking-[-2%] text-[#A1A1A1] text-left">
               Director
+            </div>
+            <div xclassName="text-[14px] leading-[19.6px] tracking-[-2%] text-[#A1A1A1] text-left">
+              Steve Smith
             </div>
           </div>
         </div>
         <div className="text-[16px] leading-[24px]  text-[#A1A1A1] text-left">
           There are many variations of passages of Lorem Ipsum available, but
-          the majority have suffered alteration in some form, by injected
-          humour.
+          humour. the majority have suffered alteration in some form, by
+          injected
         </div>
         <div className="flex flex-row gap-[4px]">
           <img src="/images/star.png" alt="" />
